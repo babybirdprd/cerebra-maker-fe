@@ -1,0 +1,5 @@
+{
+  "name": "Cerebras-MAKER Prototype",
+  "description": "A high-fidelity prototype of the Cerebras-MAKER Dioxus UI, featuring Dual-Graph visualization, Plan Decomposition, and Shadow Git time-travel interfaces.",
+  "requestFramePermissions": []
+}
